@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external--1292887309-1697035924880
+  name: Online Publication
+  url: https://dsg.csail.mit.edu/6.5830/index.php
+  weight: 10
