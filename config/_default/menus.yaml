@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external--1292887309-1697035924880
+- identifier: 700f2c91-323d-4897-94cd-1dcd931a0b58
   name: Online Publication
-  url: https://dsg.csail.mit.edu/6.5830/index.php
+  pageRef: /external-resources/online-publication_700f2c91-323d-4897-94cd-1dcd931a0b58
   weight: 10
