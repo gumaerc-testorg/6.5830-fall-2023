@@ -43,11 +43,12 @@
   "learning_resource_types": [
     "Readings",
     "Lecture Notes",
-    "Labs",
+    "Laboratory Assignments",
     "Multiple Assignment Types",
     "Exams with Solutions",
     "Projects"
   ],
   "site_uid": "2ba6c609-8584-4b4f-9359-fbd8622ca844",
-  "site_short_id": "6.5830-fall-2023"
+  "site_short_id": "6.5830-fall-2023",
+  "site_url_path": "courses/6-5830-database-systems-fall-2023"
 }
