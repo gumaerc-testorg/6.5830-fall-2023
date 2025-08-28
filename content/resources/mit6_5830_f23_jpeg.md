@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/database-systems/mit6_5830_f23.jpeg
+file: /ol-ocw-studio-app/courses/6-5830-database-systems-fall-2023/mit6_5830_f23.jpeg
 file_size: 23427
 file_type: image/jpeg
 image_metadata:
