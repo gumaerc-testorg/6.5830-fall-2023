@@ -8,9 +8,10 @@ file_type: image/jpeg
 image_metadata:
   caption: 'While original databases may have involved sorting through cards in a
     catalog, today''s database systems are based on technology and algorithms. (Image
-    courtesy of [shindotv](https://flic.kr/p/6QVfAK) on Flickr. License: CC BY-NC-SA.)'
-  credit: 'Image courtesy of [shindotv](https://flic.kr/p/6QVfAK) on Flickr. License:
-    CC BY-NC-SA.'
+    courtesy of {{% resource_link "be69a5c8-11a0-4925-9bd4-5c7480ead28c" "shindotv"
+    %}} on Flickr. License: CC BY-NC-SA.)'
+  credit: 'Image courtesy of {{% resource_link "be69a5c8-11a0-4925-9bd4-5c7480ead28c"
+    "shindotv" %}} on Flickr. License: CC BY-NC-SA.'
   image-alt: Photograph of a library card catalog with one row of open drawers.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -28,4 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-While original databases may have involved sorting through cards in a catalog, today's database systems are based on technology and algorithms. (Image courtesy of [shindotv](https://flic.kr/p/6QVfAK) on Flickr. License: CC BY-NC-SA.)
+While original databases may have involved sorting through cards in a catalog, today's database systems are based on technology and algorithms. (Image courtesy of {{% resource_link "be69a5c8-11a0-4925-9bd4-5c7480ead28c" "shindotv" %}} on Flickr. License: CC BY-NC-SA.)
